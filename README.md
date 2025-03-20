@@ -10,16 +10,6 @@ This is a professional portfolio website showcasing my work as a Security Resear
 - Skills overview
 - Contact information
 
-## Setup
-
-1. Clone this repository
-2. Open `index.html` in your browser
-3. To deploy on GitHub Pages:
-   - Go to repository settings
-   - Navigate to Pages section
-   - Select main branch as source
-   - Save the changes
-
 ## Technologies Used
 
 - HTML5
