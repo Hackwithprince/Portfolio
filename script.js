@@ -128,6 +128,11 @@ document.addEventListener('DOMContentLoaded', function() {
             name: 'Life.Church',
             logo: 'https://iili.io/3nRjDOv.jpg',
             url: 'https://www.life.church/vulnerability-disclosure-program/'
+        },
+        {
+            name: 'sensfrx',
+            logo: 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/n2fdnvqrpy1qakkjn9ah?ik-sanitizeSvg=true',
+            url: 'https://sensfrx.ai/hall-of-fame'
         }
     ];
 
