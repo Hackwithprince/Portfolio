@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
             url: 'https://www.life.church/vulnerability-disclosure-program/'
         },
         {
-            name: 'sensfrx',
+            name: 'Sensfrx',
             logo: 'https://iili.io/fRPb5Pe.png',
             url: 'https://sensfrx.ai/hall-of-fame'
         }
