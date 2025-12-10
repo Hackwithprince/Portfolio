@@ -130,9 +130,9 @@ document.addEventListener('DOMContentLoaded', function() {
             url: 'https://www.life.church/vulnerability-disclosure-program/'
         },
         {
-            name: 'BASF',
-            logo: 'https://iili.io/3nAdvRe.png',
-            url: 'https://www.basf.com/global/en/legal/responsible-disclosure-statement'
+            name: 'sensfrx',
+            logo: 'https://iili.io/fRPb5Pe.png',
+            url: 'https://sensfrx.ai/hall-of-fame'
         }
         
     ];
