@@ -128,12 +128,8 @@ document.addEventListener('DOMContentLoaded', function() {
             name: 'Life.Church',
             logo: 'https://iili.io/3nRjDOv.jpg',
             url: 'https://www.life.church/vulnerability-disclosure-program/'
-        },
-        {
-            name: 'sensfrx',
-            logo: 'https://iili.io/3nRjDOv.jpg',
-            url: 'https://sensfrx.ai/hall-of-fame'
         }
+        
     ];
 
     // Populate achievements grid with featured achievements
