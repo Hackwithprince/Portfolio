@@ -128,6 +128,11 @@ document.addEventListener('DOMContentLoaded', function() {
             name: 'Life.Church',
             logo: 'https://iili.io/3nRjDOv.jpg',
             url: 'https://www.life.church/vulnerability-disclosure-program/'
+        },
+        {
+            name: 'BASF',
+            logo: 'https://iili.io/3nAdvRe.png',
+            url: 'https://www.basf.com/global/en/legal/responsible-disclosure-statement'
         }
         
     ];
