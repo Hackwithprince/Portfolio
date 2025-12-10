@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'sensfrx',
-            logo: 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/n2fdnvqrpy1qakkjn9ah?ik-sanitizeSvg=true',
+            logo: 'https://iili.io/3nRjDOv.jpg',
             url: 'https://sensfrx.ai/hall-of-fame'
         }
     ];
